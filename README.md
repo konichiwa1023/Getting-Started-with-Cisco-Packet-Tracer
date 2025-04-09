@@ -1,0 +1,1 @@
+ let's start with an introduction to Cisco's very own virtual network simulation tool, the Cisco Packet Tracer. In this course, you will have an overview of Cisco Packet Tracer's features and as well as a sample activity where you can create and manage a simple network design.
